@@ -1,5 +1,5 @@
-#aprendendo github
+# aprendendo github
 Faculdade de Tecnogia de Tatui
 
-#Disciplina
+# Disciplina
 Linguagem de programação
